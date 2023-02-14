@@ -1,2 +1,4 @@
 # Detecting-fake-news_DS
 Detecting Fake News using Machine Learning: we built a model using PassiveAgressiveClassifier based on the tfidf matrix that detects fake news.
+The objective of the project "Detecting Fake News using Machine Learning" was to build a machine learning model that could detect fake news.
+The key achievement of the project was the successful creation of a PassiveAgressiveClassifier model that was based on the tf-idf matrix. This model was able to accurately detect fake news, as evidenced by its performance on a dataset of news articles. The project also demonstrated the use of several important Python libraries, including Pandas, Scikit-learn, Matplotlib, and Seaborn, to clean, preprocess, and visualize data. These tools allowed for a thorough analysis and understanding of the data, which in turn allowed for the creation of an effective machine learning model.
